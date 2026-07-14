@@ -111,5 +111,4 @@ changes means you accept the revised Policy.
 
 If you have questions about this Policy, contact:
 
-**Techzam Solutions** — support@techzam.example
-*(Replace with your real contact email before publishing.)*
+**Developer Email** — maazhaider0011@gmail.com
